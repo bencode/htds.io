@@ -1,0 +1,11 @@
+{
+  "name": "htds",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "shadow-cljs watch ui"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.26.0"
+  }
+}

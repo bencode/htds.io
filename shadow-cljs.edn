@@ -1,0 +1,12 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src"]
+
+ :dependencies
+ []
+
+ :dev-http {8080 "public"}
+ :builds
+ {:ui
+  {:target :browser
+   :modules {:main {:init-fn htds.ui.app/init}}}}}

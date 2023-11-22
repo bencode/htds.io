@@ -1,0 +1,8 @@
+# clojure
+.shadow-cljs/
+
+# node
+node_modules/
+
+# app
+public/js/
