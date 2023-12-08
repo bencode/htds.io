@@ -6,3 +6,6 @@ node_modules/
 
 # app
 public/js/
+
+# os
+.DS_Store
